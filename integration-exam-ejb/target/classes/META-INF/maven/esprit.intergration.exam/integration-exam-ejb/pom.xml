@@ -17,11 +17,13 @@
 				<groupId>junit</groupId>
 				<artifactId>junit</artifactId>
 				<version>4.12</version>
-				<scope>test</scope>
+				<scope>test compile</scope>
+				
 		</dependency>
 		<dependency>
 			<groupId>joda-time</groupId>
 			<artifactId>joda-time</artifactId>
+			<scope>compile test</scope>
 			<version>2.9.2</version>
 		</dependency>
 		<dependency>

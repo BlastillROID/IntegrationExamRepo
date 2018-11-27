@@ -8,6 +8,12 @@
         <dependent-module archiveName="integration-exam-ejb.jar" deploy-path="/" handle="module:/resource/integration-exam-ejb/integration-exam-ejb">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="junit.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/junit/junit/4.12/junit-4.12.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hamcrest-core.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="joda-time.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar">
             <dependency-type>uses</dependency-type>
         </dependent-module>
