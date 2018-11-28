@@ -4,6 +4,6 @@ public class Greeter {
 
 
 	public String sayHello() {
-		 return "Welcome to CI";
+		 return "Welcome to CI My Friend";
 	}
 }
