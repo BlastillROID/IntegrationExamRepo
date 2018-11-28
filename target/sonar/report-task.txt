@@ -1,0 +1,6 @@
+projectKey=esprit.intergration.exam:integration-exam
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=esprit.intergration.exam%3Aintegration-exam
+ceTaskId=AWdYJ1Q9eyAm2ar2yUVC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWdYJ1Q9eyAm2ar2yUVC
