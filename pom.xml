@@ -24,7 +24,7 @@
 		<version.war.plugin>2.5</version.war.plugin>
 		<version.ejb.plugin>2.4</version.ejb.plugin>
 		<version.surefire.plugin>2.16</version.surefire.plugin>
-		<version.archetype.plugin>2.2</version.archetype.plugin>
+		<version.archetype.plugin>3.2.1</version.archetype.plugin>
 
 	</properties>
 
